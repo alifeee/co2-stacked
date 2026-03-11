@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/co2-stacked/about/>
 # CO2 Stacked
 
 A visualisation of CO2 levels as a vertically stacked graph, with days going upwards. Using @tomhazledine's [`<stacked-sparklines>`](https://github.com/tomhazledine/stacked-sparklines) web component.
